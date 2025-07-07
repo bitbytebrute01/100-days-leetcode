@@ -5,7 +5,9 @@ using namespace std;
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        int k = 1;
+        if (nums.empty()) return 0;
+
+        int k = 1; 
         for (int i = 1; i < nums.size(); ++i) {
             if (nums[i] != nums[i - 1]) {
                 nums[k] = nums[i];
@@ -15,6 +17,8 @@ public:
         return k;
     }
 };
+
+
 int main() {
     Solution sol;
     vector<int> nums = {0, 0, 1, 1, 2, 2, 3, 4, 4, 5};
