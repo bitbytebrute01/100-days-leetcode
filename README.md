@@ -68,7 +68,7 @@ Focusing on:
 | Day | Problem | Topic | Language | Solution Link |
 |-----|---------|-------|----------|---------------|
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays | C++ | [Day01](./Day01/) |
-| 2   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | C++ | [Day02](./Day02/) |
+| 2   | Palindrome | Arrays | C++ | [Day02](./Day02/) |
 | 3   | ... | ... | ... | ... |
 
 *➕ This table will be updated daily as I progress.*
