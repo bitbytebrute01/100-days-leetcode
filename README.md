@@ -69,7 +69,7 @@ Focusing on:
 |-----|---------|-------|----------|---------------|
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays | C++ | [Day01](./Day01/) |
 | 2   | Palindrome | Arrays | C++ | [Day02](./Day02/) |
-| 3   | ... | ... | ... | ... |
+| 3   | Remove Duplicates | Arrays | C++ | Day-03 |
 
 *➕ This table will be updated daily as I progress.*
 
